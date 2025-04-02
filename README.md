@@ -21,10 +21,10 @@ ScriptSure is a **Manuscript Relevance Checker** that helps students and researc
 
 ## 📊 Results & Screenshots
 
-- [File Upload Interface](file_upload_interface.png)
-- [Summarization Output](summarization_output.png)
-- [Summarization Output](summarization_output2.png)
-![Semantic Similarity Analysis](semantic_similarity_scores.png)
+! [File Upload Interface](file_upload_interface.png)
+! [Summarization Output](summarization_output.png)
+! [Summarization Output](summarization_output2.png)
+! [Semantic Similarity Analysis](semantic_similarity_scores.png)
 ![Final Relevance Check](final_relevance_check.png)
 
 ## 💡 Future Enhancements
