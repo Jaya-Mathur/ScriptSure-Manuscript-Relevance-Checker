@@ -20,7 +20,7 @@ ScriptSure is a **Manuscript Relevance Checker** that helps students and researc
 - **Scikit-learn** (for cosine similarity calculations)
 
 ## 📊 Results & Screenshots
-- [File Upload Interface](File_Upload_Interface.png)
+- [File Upload Interface](File Upload Interface.png)
 
 ## 💡 Future Enhancements
 - 📑 Support for multiple document formats (DOCX, TXT).
